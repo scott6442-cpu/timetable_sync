@@ -1,3 +1,4 @@
+import React from "react";
 import { useState, useEffect, useRef, useCallback } from "react";
 
 // ✅ 여기에 본인 Supabase 정보 입력
